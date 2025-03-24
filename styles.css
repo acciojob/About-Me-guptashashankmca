@@ -1,1 +1,16 @@
+#photo{
+	height:200px;
+	width:250px;
+	margin:20px;
+}
+#profile-photo{
+	display:flex;
+}
+#skilsss{
+	display:flex;
+	flex-direction:right;
+}
+
+
+
 
